@@ -1,0 +1,134 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+body {
+  background-image: url("../public/Green\ Illustrative\ Accounting\ Service\ Website.png");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+.header {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+.home {
+  height: 80vh;
+}
+
+.reservation {
+  height: 70vh;
+}
+
+.col {
+  margin-bottom: 1vh;
+  margin-left: 5vh;
+  margin-right: 5vh;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+
+.select {
+  max-width: 20vh;
+  columns: sm;
+}
+input {
+  margin: 10vh;
+}
+
+.footer {
+  position: fixed;
+}
+.create {
+  margin-bottom: 10vh;
+}
+.login {
+  margin: 10vh;
+}
+.viewbtn {
+  width: 10vh;
+}
+.reservations {
+  max-width: 80vh;
+}
+
+.flight-list {
+  margin-bottom: 30px;
+}
+.title-card {
+  background-color: #f7fdf3;
+}
+.bg-personal {
+  background-color: #3e3a4e !important;
+}
+.btn-personal {
+  background-color: #3e3a4e !important;
+  color: white !important;
+}
+
+.bg-subtle {
+  background-color: #f7fdf3 !important;
+}
+.icon {
+  max-width: 50vh;
+  min-width: 20vh;
+}
+.reservation {
+  font-size: medium !important;
+  height: max-content;
+}
+.dropDown {
+  width: 100%;
+}

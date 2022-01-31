@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e53a66fa.css",
+    "main.js": "/static/js/main.471c1888.js",
+    "static/js/787.f4702321.chunk.js": "/static/js/787.f4702321.chunk.js",
+    "static/media/Green Illustrative Accounting Service Website.png": "/static/media/Green Illustrative Accounting Service Website.7873327f772c5e3543b7.png",
+    "index.html": "/index.html",
+    "main.e53a66fa.css.map": "/static/css/main.e53a66fa.css.map",
+    "main.471c1888.js.map": "/static/js/main.471c1888.js.map",
+    "787.f4702321.chunk.js.map": "/static/js/787.f4702321.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e53a66fa.css",
+    "static/js/main.471c1888.js"
+  ]
+}
